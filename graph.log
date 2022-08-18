@@ -1,0 +1,119 @@
+* commit dd25d2f7905b87da28c91b061e0ecb93ad698cba
+| Author: Diego Rosales <diego_crosh@hotmail.com>
+| Date:   Wed Aug 17 20:28:47 2022 -0500
+| 
+|     Agregando dos parrafos
+|   
+*   commit 0663e5c3d0974dd4df94d61541cd1cee888f7caf
+|\  Merge: 7717aeb abbe7c3
+| | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | Date:   Wed Aug 17 17:23:55 2022 -0500
+| | 
+| |     Resolviendo los conflictos estaciones del anio con fecha de inicio
+| | 
+| * commit abbe7c35f57bccc10696eadeb7da32c1f3c10363
+| | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | Date:   Wed Aug 17 17:08:49 2022 -0500
+| | 
+| |     Agregando las estaciones del anio
+| | 
+* | commit 7717aeb493a5d50171d09188826d37c070e877e1
+|/  Author: Diego Rosales <diego_crosh@hotmail.com>
+|   Date:   Wed Aug 17 17:08:49 2022 -0500
+|   
+|       Agregando estaciones del anio con fecha de inicio
+|   
+*   commit 2870f98f1a2169aaa30b47e568239c04001e84a0
+|\  Merge: ef82067 bf46462
+| | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | Date:   Thu Aug 11 21:00:24 2022 -0500
+| | 
+| |     Resolviendo conflicto main/html en el documento main/js
+| | 
+| * commit bf46462bbe28dca435a41004ea23f84e34d41bb3
+| | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | Date:   Thu Aug 11 20:51:28 2022 -0500
+| | 
+| |     Agregando index.js en index.html
+| | 
+* | commit ef82067cce7fdc0d8951076c12a1b3b65349fe7f
+| | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | Date:   Thu Aug 11 20:48:26 2022 -0500
+| | 
+| |     Agregando style.css al html
+| | 
+* | commit af6310063b45dc4d92916217b8fe50a56435e7bd
+| | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | Date:   Thu Aug 11 20:39:03 2022 -0500
+| | 
+| |     Eliminando lincese.txt ya que existia otro archivo igual
+| |   
+* |   commit 545d0040b9c357ed9a42eafbae169f168117ab14
+|\ \  Merge: 9ae2beb 8274434
+| | | Author: Diego Rosales <85503595+Dirg1803@users.noreply.github.com>
+| | | Date:   Thu Aug 11 20:37:39 2022 -0500
+| | | 
+| | |     Merge pull request #1 from Dirg1803/add-license-1
+| | |     
+| | |     Agregando template license.txt
+| | | 
+| * | commit 827443424908d61b87902ff98018fe3acf8d6578
+|/ /  Author: Diego Rosales <85503595+Dirg1803@users.noreply.github.com>
+| |   Date:   Thu Aug 11 20:37:07 2022 -0500
+| |   
+| |       Agregando template license.txt
+| |   
+* |   commit 9ae2beb12d50b2f6b5dc54821201b6e0547fb23e
+|\ \  Merge: 7cb3ca6 3c32efa
+| | | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | | Date:   Thu Aug 11 20:34:26 2022 -0500
+| | | 
+| | |     Merge branch 'js'
+| | | 
+| * | commit 3c32efafed748d74dd4a11d69ee2f837350360e3
+| | | Author: Diego Rosales <diego_crosh@hotmail.com>
+| | | Date:   Thu Aug 11 20:29:00 2022 -0500
+| | | 
+| | |     Creando index.js
+| | | 
+* | | commit 7cb3ca611ee402a776c8628b96336262db1bc169
+| |/  Author: Diego Rosales <diego_crosh@hotmail.com>
+|/|   Date:   Thu Aug 11 20:24:30 2022 -0500
+| |   
+| |       Creando style.css
+| | 
+* | commit 7e8e1da5c6275786d1f53a4925313615ae754779
+|/  Author: Diego Rosales <diego_crosh@hotmail.com>
+|   Date:   Thu Aug 11 20:09:15 2022 -0500
+|   
+|       Creando archivo index.html
+| 
+* commit 11f43740a1b1b68b03b6737225b052fbe4b9c6ba
+| Author: Diego Rosales <diego_crosh@hotmail.com>
+| Date:   Thu Aug 11 19:55:38 2022 -0500
+| 
+|     Ignorando archivos exe
+| 
+* commit 31e4ce77b3e36afd9692c8ddb0e20d42094bbce0
+| Author: Diego Rosales <85503595+Dirg1803@users.noreply.github.com>
+| Date:   Thu Aug 11 19:24:32 2022 -0500
+| 
+|     Creando licencia del repositorio
+| 
+* commit b67c8fd35c68a666892f3a8b203a41706e028ea1
+| Author: Diego Rosales <diego_crosh@hotmail.com>
+| Date:   Thu Aug 11 14:13:07 2022 -0500
+| 
+|     Agregando mas contenido al REDAME
+| 
+* commit 379bd26bc5dc492113da5b93cd574c66d34c7c8f
+| Author: Diego Rosales <diego_crosh@hotmail.com>
+| Date:   Thu Aug 11 13:50:15 2022 -0500
+| 
+|     Agregando contenido inicial al REDAME
+| 
+* commit 97ef2580ff26772c040cc5ac67e193a320e1bbee
+  Author: Diego Rosales <diego_crosh@hotmail.com>
+  Date:   Thu Aug 11 13:45:27 2022 -0500
+  
+      Primer commit :)
